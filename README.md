@@ -13,6 +13,8 @@ Building this project only requires the use of a breadboard, wires, and the modu
 
 ### Schematic
 
+![schematic](doorbell_schematic.png) <br />
+This image was created with Fritzing.
 
 ## Getting Started: Software
 
