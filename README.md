@@ -10,7 +10,6 @@ Building this project only requires the use of a breadboard, wires, and the modu
 
 * ESP8266 ESP-12E LUA NODEMCU
 * KOOKYE Fingerprint Reader Sensor Module
-* JBtek Breadboard Power Supply Module 3.3V/5V
 
 ### Schematic
 
